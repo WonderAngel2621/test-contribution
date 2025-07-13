@@ -1,2 +1,1 @@
-# test-contribution
-test-contribution
+This is a test for contribution
